@@ -1,0 +1,229 @@
+"...1","BENE_ID","CLM_FROM_DT","CLM_THRU_DT","YR","LOS","DRG","PRNCPAL_DGNS_CD","ER_flag","CLM_TOT_CHRG_AMT","ICD_DIAG_CD_DESC","DRG_Description","BENE_BIRTH_DT","Season","temp"
+1,13,2015-06-21,2015-06-22,2015,2,951,"Z733",0,1831.15,"Stress","Other Factors Influencing Health Status","08-Nov-1944","Summer",69.8
+2,41,2016-04-30,2016-05-01,2016,2,951,"Z733",0,96.65,"Stress","Other Factors Influencing Health Status","05-Dec-1958","Spring",54
+3,263,2019-03-26,2019-03-27,2019,2,951,"Z733",0,9587.85,"Stress","Other Factors Influencing Health Status","25-Jul-1975","Spring",33
+4,286,2016-02-03,2016-02-04,2016,2,951,"Z604",0,1907.63,"Social exclusion and rejection","Other Factors Influencing Health Status","28-Nov-1947","Winter",40.2
+5,287,2021-11-24,2021-11-25,2021,2,951,"Z608",0,1522.69,"Other problems related to social environment","Other Factors Influencing Health Status","29-Sep-1953","Fall",30.8
+6,463,2018-07-16,2018-07-17,2018,2,951,"Z733",0,2259.47,"Stress","Other Factors Influencing Health Status","22-Jul-1989","Summer",79.8
+7,524,2022-11-01,2022-11-02,2022,2,951,"Z608",0,10474.36,"Other problems related to social environment","Other Factors Influencing Health Status","13-Apr-1979","Fall",56.1
+8,1179,2018-04-07,2018-04-08,2018,2,951,"Z608",0,1142.7,"Other problems related to social environment","Other Factors Influencing Health Status","08-Sep-1938","Spring",36.8
+9,1181,2020-02-29,2020-03-01,2020,2,951,"Z733",0,1218.43,"Stress","Other Factors Influencing Health Status","01-May-1947","Winter",24.2
+10,1263,2022-08-23,2022-08-31,2022,9,951,"Z733",0,91732.94,"Stress","Other Factors Influencing Health Status","06-May-1965","Summer",70.3
+11,1264,2022-10-08,2022-10-12,2022,5,951,"Z604",0,62076.28,"Social exclusion and rejection","Other Factors Influencing Health Status","31-May-1947","Fall",48.9
+12,1265,2022-11-11,2022-11-14,2022,4,951,"Z604",0,43731.67,"Social exclusion and rejection","Other Factors Influencing Health Status","11-Apr-1929","Fall",55.9
+13,1391,2021-04-28,2021-04-29,2021,2,951,"Z733",0,12812.5,"Stress","Other Factors Influencing Health Status","13-Dec-1952","Spring",58.9
+14,1559,2019-06-11,2019-06-12,2019,2,951,"Z733",0,847.3,"Stress","Other Factors Influencing Health Status","28-Sep-1933","Summer",68.3
+15,1560,2019-06-25,2019-06-26,2019,2,951,"Z733",0,1129.56,"Stress","Other Factors Influencing Health Status","15-Dec-1946","Summer",67.6
+16,1671,2022-08-07,2022-08-08,2022,2,951,"Z608",0,1477.6,"Other problems related to social environment","Other Factors Influencing Health Status","24-May-2004","Summer",82.3
+17,1836,2022-11-14,2022-11-15,2022,2,951,"Z604",0,329.48,"Social exclusion and rejection","Other Factors Influencing Health Status","06-Feb-1987","Fall",35.2
+18,1898,2019-08-12,2019-08-13,2019,2,951,"Z733",0,13801.94,"Stress","Other Factors Influencing Health Status","07-Nov-1949","Summer",70.6
+19,1926,2020-10-24,2020-10-25,2020,2,951,"Z608",0,1212.49,"Other problems related to social environment","Other Factors Influencing Health Status","26-Jun-1950","Fall",59.5
+20,2434,2020-11-19,2020-11-20,2020,2,951,"Z733",0,10983.98,"Stress","Other Factors Influencing Health Status","16-Mar-1951","Fall",31.5
+21,2564,2016-07-14,2016-07-23,2016,10,951,"Z608",0,108.86,"Other problems related to social environment","Other Factors Influencing Health Status","22-Nov-1958","Summer",76.1
+22,2568,2019-08-07,2019-08-09,2019,3,951,"Z733",0,108.86,"Stress","Other Factors Influencing Health Status","17-Mar-1966","Summer",73
+23,3259,2019-05-22,2019-05-23,2019,2,951,"Z604",0,1899.4,"Social exclusion and rejection","Other Factors Influencing Health Status","27-Sep-1970","Spring",59.6
+24,3260,2019-05-29,2019-05-30,2019,2,951,"Z604",0,1192.08,"Social exclusion and rejection","Other Factors Influencing Health Status","23-Nov-1946","Spring",53.2
+25,3363,2022-11-03,2022-11-04,2022,2,951,"Z733",0,1001.63,"Stress","Other Factors Influencing Health Status","29-Dec-1971","Fall",47.5
+26,3399,2020-02-20,2020-02-21,2020,2,951,"Z733",0,10809.78,"Stress","Other Factors Influencing Health Status","03-Sep-1968","Winter",24.5
+27,3713,2020-11-20,2020-11-21,2020,2,951,"Z604",0,1414.55,"Social exclusion and rejection","Other Factors Influencing Health Status","18-May-1948","Fall",48.6
+28,3715,2020-11-27,2020-11-28,2020,2,951,"Z604",0,385.78,"Social exclusion and rejection","Other Factors Influencing Health Status","04-Mar-1939","Fall",44.9
+29,3718,2021-03-26,2021-03-27,2021,2,951,"Z733",0,1278.55,"Stress","Other Factors Influencing Health Status","15-Jun-1971","Spring",59.8
+30,3722,2021-07-30,2021-07-31,2021,2,951,"Z604",0,1111.46,"Social exclusion and rejection","Other Factors Influencing Health Status","10-Apr-1963","Summer",69.9
+31,3723,2022-06-17,2022-06-18,2022,2,951,"Z733",0,1278.55,"Stress","Other Factors Influencing Health Status","20-Jul-1936","Summer",74.1
+32,4160,2022-03-21,2022-03-26,2022,6,951,"Z608",0,51811.11,"Other problems related to social environment","Other Factors Influencing Health Status","15-Jun-2009","Spring",47.2
+33,4161,2022-04-24,2022-04-30,2022,7,951,"Z608",0,89055.17,"Other problems related to social environment","Other Factors Influencing Health Status","25-Dec-1945","Spring",51
+34,4162,2022-06-02,2022-06-05,2022,4,951,"Z608",0,40658.03,"Other problems related to social environment","Other Factors Influencing Health Status","05-Dec-1955","Summer",63.8
+35,4163,2022-07-08,2022-07-18,2022,11,951,"Z608",0,113653.68,"Other problems related to social environment","Other Factors Influencing Health Status","09-Mar-1944","Summer",73.7
+36,4164,2022-08-20,2022-08-28,2022,9,951,"Z608",0,122630.04,"Other problems related to social environment","Other Factors Influencing Health Status","22-May-1953","Summer",76
+37,4165,2022-09-28,2022-10-11,2022,14,951,"Z608",0,134359.8,"Other problems related to social environment","Other Factors Influencing Health Status","20-Sep-1962","Fall",56.7
+38,4166,2022-11-08,2022-11-16,2022,9,951,"Z608",0,89454.39,"Other problems related to social environment","Other Factors Influencing Health Status","25-Nov-1939","Fall",45.6
+39,4167,2022-12-19,2022-12-27,2022,9,951,"Z608",0,110170.48,"Other problems related to social environment","Other Factors Influencing Health Status","06-Aug-1950","Winter",32
+40,4168,2023-01-26,2023-02-01,2023,7,951,"Z608",0,77816.87,"Other problems related to social environment","Other Factors Influencing Health Status","24-Aug-1943","Winter",37.2
+41,4233,2016-11-29,2016-11-30,2016,2,951,"Z733",0,10265.14,"Stress","Other Factors Influencing Health Status","20-Nov-1948","Fall",38.7
+42,4366,2019-01-06,2019-01-07,2019,2,951,"Z733",0,823.06,"Stress","Other Factors Influencing Health Status","26-Jun-1964","Winter",33.4
+43,4369,2020-06-07,2020-06-08,2020,2,951,"Z608",0,1576.87,"Other problems related to social environment","Other Factors Influencing Health Status","20-Nov-1919","Summer",62.2
+44,4871,2019-03-17,2019-03-22,2019,6,951,"Z733",0,27625.43,"Stress","Other Factors Influencing Health Status","04-Jun-1994","Spring",32.6
+45,4872,2019-05-23,2019-05-24,2019,2,951,"Z733",0,71.22,"Stress","Other Factors Influencing Health Status","20-Oct-2012","Spring",60
+46,4976,2016-05-23,2016-05-28,2016,6,951,"Z733",0,33749.93,"Stress","Other Factors Influencing Health Status","16-Oct-1923","Spring",64.5
+47,4977,2016-10-26,2016-10-27,2016,2,951,"Z733",0,71.22,"Stress","Other Factors Influencing Health Status","16-Mar-1982","Fall",35.4
+48,4978,2021-10-26,2021-10-30,2021,5,951,"Z733",0,20140.33,"Stress","Other Factors Influencing Health Status","12-Dec-1940","Fall",51.5
+49,4979,2022-01-22,2022-01-23,2022,2,951,"Z608",0,71.22,"Other problems related to social environment","Other Factors Influencing Health Status","10-Nov-1971","Winter",11.5
+50,5012,2017-06-22,2017-06-23,2017,2,951,"Z733",0,5930.32,"Stress","Other Factors Influencing Health Status","18-Nov-1939","Summer",69.6
+51,5170,2021-04-27,2021-04-28,2021,2,951,"Z604",0,11877.15,"Social exclusion and rejection","Other Factors Influencing Health Status","22-Apr-1938","Spring",51.2
+52,5239,2019-12-16,2019-12-17,2019,2,951,"Z733",0,7241.53,"Stress","Other Factors Influencing Health Status","15-Nov-1971","Winter",28.8
+53,5279,2017-09-18,2017-09-19,2017,2,951,"Z733",0,6922.46,"Stress","Other Factors Influencing Health Status","05-Feb-1961","Fall",67.5
+54,5289,2021-01-14,2021-01-17,2021,4,951,"Z733",0,13344.46,"Stress","Other Factors Influencing Health Status","19-Jun-1949","Winter",31.7
+55,5290,2021-06-19,2021-06-20,2021,2,951,"Z604",0,71.22,"Social exclusion and rejection","Other Factors Influencing Health Status","15-Apr-2014","Summer",75.5
+56,5441,2021-04-07,2021-04-08,2021,2,951,"Z608",0,740.94,"Other problems related to social environment","Other Factors Influencing Health Status","14-Feb-1944","Spring",52.7
+57,5502,2019-03-29,2019-04-04,2019,7,951,"Z604",0,110.93,"Social exclusion and rejection","Other Factors Influencing Health Status","10-Jan-1963","Spring",44.6
+58,5669,2021-04-11,2021-04-12,2021,2,951,"Z608",0,27964.24,"Other problems related to social environment","Other Factors Influencing Health Status","02-Oct-1977","Spring",52.6
+59,5869,2017-05-18,2017-05-19,2017,2,951,"Z608",0,6886.49,"Other problems related to social environment","Other Factors Influencing Health Status","12-Jul-1982","Spring",80.2
+60,6082,2016-10-28,2016-10-29,2016,2,951,"Z733",0,739.23,"Stress","Other Factors Influencing Health Status","06-Mar-1949","Fall",42.1
+61,6083,2019-06-14,2019-06-15,2019,2,951,"Z608",0,881.53,"Other problems related to social environment","Other Factors Influencing Health Status","21-Nov-1956","Summer",61.2
+62,6169,2020-11-14,2020-11-15,2020,2,951,"Z608",0,7218.16,"Other problems related to social environment","Other Factors Influencing Health Status","13-Jun-1948","Fall",38.2
+63,6278,2020-02-23,2020-02-24,2020,2,951,"Z733",0,8229.52,"Stress","Other Factors Influencing Health Status","27-Apr-1977","Winter",33.7
+64,6301,2017-07-09,2017-07-10,2017,2,951,"Z733",0,7668.46,"Stress","Other Factors Influencing Health Status","19-Dec-1943","Summer",70.5
+65,6634,2019-07-04,2019-07-05,2019,2,951,"Z608",0,8020.01,"Other problems related to social environment","Other Factors Influencing Health Status","04-Jul-1947","Summer",77.6
+66,6795,2020-08-21,2020-08-25,2020,5,951,"Z733",0,51293.06,"Stress","Other Factors Influencing Health Status","14-May-1959","Summer",70.1
+67,6796,2020-09-29,2020-10-05,2020,7,951,"Z733",0,70649.38,"Stress","Other Factors Influencing Health Status","26-Apr-1942","Fall",69.4
+68,6797,2021-01-29,2021-02-03,2021,6,951,"Z733",0,59546.08,"Stress","Other Factors Influencing Health Status","12-Aug-1950","Winter",10.6
+69,6798,2021-03-06,2021-03-13,2021,8,951,"Z733",0,105014,"Stress","Other Factors Influencing Health Status","09-Sep-1946","Spring",23.8
+70,6799,2021-04-14,2021-04-23,2021,10,951,"Z733",0,94084.89,"Stress","Other Factors Influencing Health Status","31-Dec-1943","Spring",56.8
+71,6800,2021-05-21,2021-05-24,2021,4,951,"Z733",0,38958.34,"Stress","Other Factors Influencing Health Status","09-Apr-1962","Spring",67.7
+72,6801,2021-06-23,2021-06-26,2021,4,951,"Z733",0,33451.07,"Stress","Other Factors Influencing Health Status","19-Dec-1940","Summer",62.2
+73,6802,2021-07-28,2021-08-01,2021,5,951,"Z733",0,47566.59,"Stress","Other Factors Influencing Health Status","19-Jun-1993","Summer",69.1
+74,6803,2021-09-02,2021-09-09,2021,8,951,"Z733",0,72889.61,"Stress","Other Factors Influencing Health Status","02-Nov-1982","Fall",63.7
+75,6804,2021-10-09,2021-10-13,2021,5,951,"Z733",0,58038.38,"Stress","Other Factors Influencing Health Status","21-May-1939","Fall",58.8
+76,6805,2021-11-10,2021-11-17,2021,8,951,"Z733",0,77724.24,"Stress","Other Factors Influencing Health Status","07-Sep-1965","Fall",50.5
+77,6806,2021-12-15,2021-12-20,2021,6,951,"Z733",0,72688.73,"Stress","Other Factors Influencing Health Status","10-Oct-1961","Winter",33.2
+78,6807,2022-01-22,2022-01-28,2022,7,951,"Z733",0,74025.44,"Stress","Other Factors Influencing Health Status","23-May-1942","Winter",11.5
+79,6808,2022-03-02,2022-03-08,2022,7,951,"Z733",0,54802.79,"Stress","Other Factors Influencing Health Status","20-Apr-1959","Spring",34.3
+80,6809,2022-04-07,2022-04-11,2022,5,951,"Z733",0,45104.54,"Stress","Other Factors Influencing Health Status","18-Sep-1965","Spring",45.6
+81,6810,2022-05-13,2022-05-19,2022,7,951,"Z733",0,63733.66,"Stress","Other Factors Influencing Health Status","11-Dec-1941","Spring",70
+82,6811,2022-06-16,2022-07-05,2022,20,951,"Z733",0,212333.83,"Stress","Other Factors Influencing Health Status","24-Jan-1973","Summer",66.7
+83,6812,2022-08-07,2022-08-13,2022,7,951,"Z733",0,66208.97,"Stress","Other Factors Influencing Health Status","11-Dec-2004","Summer",82.3
+84,7140,2015-06-11,2015-06-12,2015,2,951,"Z733",0,978.59,"Stress","Other Factors Influencing Health Status","19-Jul-1950","Summer",75.5
+85,7236,2022-01-16,2022-01-20,2022,5,951,"Z733",0,62219.33,"Stress","Other Factors Influencing Health Status","08-Sep-1956","Winter",10.3
+86,7237,2022-02-19,2022-02-25,2022,7,951,"Z733",0,73017.62,"Stress","Other Factors Influencing Health Status","11-Jun-1958","Winter",22.6
+87,7238,2022-03-30,2022-04-02,2022,4,951,"Z733",0,44067.48,"Stress","Other Factors Influencing Health Status","28-Nov-2011","Spring",34.9
+88,7239,2022-05-01,2022-05-06,2022,6,951,"Z733",0,75252.53,"Stress","Other Factors Influencing Health Status","11-Nov-1942","Spring",52.4
+89,7240,2022-06-07,2022-06-26,2022,20,951,"Z733",0,275770.14,"Stress","Other Factors Influencing Health Status","26-Sep-1943","Summer",67.5
+90,7241,2022-07-30,2022-08-05,2022,7,951,"Z733",0,97805.55,"Stress","Other Factors Influencing Health Status","19-Jan-2010","Summer",75.2
+91,7242,2022-09-07,2022-09-15,2022,9,951,"Z733",0,113645.88,"Stress","Other Factors Influencing Health Status","04-Jun-1949","Fall",65.1
+92,7243,2022-10-17,2022-10-24,2022,8,951,"Z733",0,119005.46,"Stress","Other Factors Influencing Health Status","28-Sep-2010","Fall",46.6
+93,7244,2022-11-22,2022-11-27,2022,6,951,"Z733",0,68715.79,"Stress","Other Factors Influencing Health Status","13-Nov-1976","Fall",34.4
+94,7245,2022-12-29,2023-01-03,2023,6,951,"Z733",0,52739.21,"Stress","Other Factors Influencing Health Status","05-Sep-1939","Winter",33.1
+95,7246,2023-02-05,2023-02-13,2023,9,951,"Z733",0,100381.83,"Stress","Other Factors Influencing Health Status","10-Jul-1967","Winter",30.6
+96,7481,2017-06-28,2017-06-29,2017,2,951,"Z608",0,9591.63,"Other problems related to social environment","Other Factors Influencing Health Status","16-Oct-1966","Summer",62.5
+97,7551,2019-09-17,2019-09-18,2019,2,951,"Z733",0,7210.89,"Stress","Other Factors Influencing Health Status","06-Jan-1964","Fall",57.1
+98,7600,2020-07-23,2020-07-24,2020,2,951,"Z608",0,9435.48,"Other problems related to social environment","Other Factors Influencing Health Status","03-Mar-1942","Summer",76.2
+99,8648,2019-12-08,2019-12-09,2019,2,951,"Z733",0,10116.95,"Stress","Other Factors Influencing Health Status","10-Jun-1944","Winter",16.1
+100,8698,2016-11-29,2016-11-30,2016,2,951,"Z733",0,728.31,"Stress","Other Factors Influencing Health Status","17-Jul-1922","Fall",38.7
+101,8699,2017-01-31,2017-02-01,2017,2,951,"Z733",0,728.31,"Stress","Other Factors Influencing Health Status","09-Feb-1947","Winter",21.1
+102,8700,2018-06-19,2018-06-20,2018,2,951,"Z608",0,253.73,"Other problems related to social environment","Other Factors Influencing Health Status","18-May-1945","Summer",74.3
+103,8701,2018-06-26,2018-06-27,2018,2,951,"Z733",0,728.31,"Stress","Other Factors Influencing Health Status","09-Jun-1964","Summer",63.7
+104,8703,2021-02-20,2021-02-21,2021,2,951,"Z733",0,30852.94,"Stress","Other Factors Influencing Health Status","19-Oct-1980","Winter",26.2
+105,8706,2021-08-17,2021-08-18,2021,2,951,"Z733",0,1106.36,"Stress","Other Factors Influencing Health Status","28-Feb-1985","Summer",70
+106,8723,2019-12-05,2019-12-06,2019,2,951,"Z733",0,7593.01,"Stress","Other Factors Influencing Health Status","08-Sep-1956","Winter",30.1
+107,9065,2022-08-23,2022-08-24,2022,2,951,"Z733",0,1289.21,"Stress","Other Factors Influencing Health Status","07-Jun-1941","Summer",70.3
+108,9195,2022-01-26,2022-01-27,2022,2,951,"Z733",0,10368.66,"Stress","Other Factors Influencing Health Status","02-Jun-1958","Winter",15
+109,9567,2020-02-27,2020-02-28,2020,2,951,"Z733",0,7354.99,"Stress","Other Factors Influencing Health Status","20-Dec-1947","Winter",38.5
+110,9586,2017-03-06,2017-03-07,2017,2,951,"Z733",0,13112.52,"Stress","Other Factors Influencing Health Status","27-Mar-1990","Spring",26.8
+111,9679,2017-10-12,2017-10-13,2017,2,951,"Z608",0,6983.05,"Other problems related to social environment","Other Factors Influencing Health Status","13-Dec-1963","Fall",53
+112,9728,2019-02-19,2019-02-23,2019,5,951,"Z608",0,22116.54,"Other problems related to social environment","Other Factors Influencing Health Status","30-Jul-1957","Winter",18.2
+113,9730,2019-08-09,2019-08-10,2019,2,951,"Z604",0,86.03,"Social exclusion and rejection","Other Factors Influencing Health Status","19-May-1933","Summer",71.1
+114,10024,2021-04-21,2021-04-22,2021,2,951,"Z733",0,5918.95,"Stress","Other Factors Influencing Health Status","10-May-1943","Spring",46.6
+115,10205,2019-03-01,2019-03-02,2019,2,951,"Z733",0,13442.31,"Stress","Other Factors Influencing Health Status","29-Mar-1987","Spring",24.4
+116,10243,2017-08-09,2017-08-10,2017,2,951,"Z733",0,1704.03,"Stress","Other Factors Influencing Health Status","09-Mar-1966","Summer",67.7
+117,10245,2020-12-09,2020-12-10,2020,2,951,"Z733",0,928.72,"Stress","Other Factors Influencing Health Status","05-Jun-1950","Winter",27.5
+118,10294,2019-06-05,2019-06-06,2019,2,951,"Z733",0,1470.92,"Stress","Other Factors Influencing Health Status","05-Jun-1950","Summer",69.8
+119,10297,2022-04-27,2022-04-28,2022,2,951,"Z608",0,1947.08,"Other problems related to social environment","Other Factors Influencing Health Status","01-Oct-1962","Spring",48.5
+120,10318,2021-11-06,2021-11-07,2021,2,951,"Z608",0,12766.61,"Other problems related to social environment","Other Factors Influencing Health Status","15-Mar-1946","Fall",34.2
+121,10713,2018-08-27,2018-08-28,2018,2,951,"Z604",0,2364.87,"Social exclusion and rejection","Other Factors Influencing Health Status","04-Feb-1920","Summer",75.5
+122,10714,2018-09-24,2018-09-25,2018,2,951,"Z608",0,1215.28,"Other problems related to social environment","Other Factors Influencing Health Status","24-Aug-1984","Fall",51.4
+123,10715,2018-10-01,2018-10-02,2018,2,951,"Z608",0,451.56,"Other problems related to social environment","Other Factors Influencing Health Status","07-Dec-1982","Fall",58.4
+124,10716,2018-10-22,2018-10-23,2018,2,951,"Z733",0,1215.28,"Stress","Other Factors Influencing Health Status","31-Dec-1940","Fall",36.6
+125,10717,2021-06-14,2021-06-15,2021,2,951,"Z608",0,1215.28,"Other problems related to social environment","Other Factors Influencing Health Status","26-Sep-1950","Summer",62.6
+126,10895,2023-01-14,2023-01-21,2023,8,951,"Z608",0,133392.91,"Other problems related to social environment","Other Factors Influencing Health Status","15-Aug-1968","Winter",30.7
+127,11214,2022-12-29,2022-12-30,2022,2,951,"Z608",0,10621.29,"Other problems related to social environment","Other Factors Influencing Health Status","12-Dec-1940","Winter",33.1
+128,11847,2020-07-05,2020-07-12,2020,8,951,"Z608",0,114.25,"Other problems related to social environment","Other Factors Influencing Health Status","14-Nov-1993","Summer",76.4
+129,12016,2018-10-09,2018-10-15,2018,7,951,"Z604",0,114.25,"Social exclusion and rejection","Other Factors Influencing Health Status","09-Jul-1956","Fall",66.6
+130,12345,2020-05-30,2020-06-06,2020,8,951,"Z733",0,114.25,"Stress","Other Factors Influencing Health Status","08-Jul-1974","Spring",71.2
+131,12393,2016-10-17,2016-10-18,2016,2,951,"Z733",0,729.48,"Stress","Other Factors Influencing Health Status","21-Jul-1954","Fall",62.9
+132,13455,2021-04-14,2021-04-18,2021,5,951,"Z608",0,14176.49,"Other problems related to social environment","Other Factors Influencing Health Status","31-Jul-1939","Spring",56.8
+133,13456,2022-01-21,2022-01-22,2022,2,951,"Z733",0,65,"Stress","Other Factors Influencing Health Status","26-Jan-2008","Winter",10.9
+134,13817,2020-06-09,2020-06-10,2020,2,951,"Z733",0,1378.43,"Stress","Other Factors Influencing Health Status","05-Dec-1951","Summer",69.6
+135,13818,2020-06-16,2020-06-17,2020,2,951,"Z733",0,716.4,"Stress","Other Factors Influencing Health Status","19-Feb-1932","Summer",64.9
+136,14211,2019-02-25,2019-02-26,2019,2,951,"Z733",0,1426.31,"Stress","Other Factors Influencing Health Status","09-Feb-1950","Winter",31.6
+137,14321,2018-05-26,2018-05-30,2018,5,951,"Z604",0,121.11,"Social exclusion and rejection","Other Factors Influencing Health Status","30-Jun-2004","Spring",75.1
+138,14323,2020-11-15,2020-11-16,2020,2,951,"Z733",0,121.11,"Stress","Other Factors Influencing Health Status","17-Mar-1947","Fall",37.8
+139,14364,2022-10-02,2022-10-03,2022,2,951,"Z608",0,7105.99,"Other problems related to social environment","Other Factors Influencing Health Status","28-Nov-1972","Fall",52.5
+140,14539,2016-11-11,2016-11-12,2016,2,951,"Z604",0,958.11,"Social exclusion and rejection","Other Factors Influencing Health Status","28-May-1959","Fall",44.7
+141,14689,2017-02-12,2017-02-13,2017,2,951,"Z608",0,412.31,"Other problems related to social environment","Other Factors Influencing Health Status","27-Oct-1948","Winter",22.2
+142,14771,2016-10-11,2016-10-12,2016,2,951,"Z608",0,9855.25,"Other problems related to social environment","Other Factors Influencing Health Status","20-Jul-1951","Fall",44.5
+143,14778,2022-07-26,2022-07-27,2022,2,951,"Z608",0,1407.52,"Other problems related to social environment","Other Factors Influencing Health Status","28-Nov-1948","Summer",70.7
+144,14779,2022-08-02,2022-08-03,2022,2,951,"Z608",0,283.27,"Other problems related to social environment","Other Factors Influencing Health Status","15-Apr-1960","Summer",75.1
+145,14780,2022-08-30,2022-08-31,2022,2,951,"Z733",0,639.09,"Stress","Other Factors Influencing Health Status","22-Nov-1969","Summer",78
+146,15194,2015-04-10,2015-04-11,2015,2,951,"Z733",0,7189.41,"Stress","Other Factors Influencing Health Status","15-Feb-1948","Spring",41.8
+147,15283,2021-01-15,2021-01-18,2021,4,951,"Z733",0,45052.14,"Stress","Other Factors Influencing Health Status","23-Jan-1986","Winter",34.8
+148,15284,2021-03-06,2021-03-09,2021,4,951,"Z733",0,41533,"Stress","Other Factors Influencing Health Status","16-May-1980","Spring",23.8
+149,15287,2021-08-07,2021-08-12,2021,6,951,"Z608",0,57479.58,"Other problems related to social environment","Other Factors Influencing Health Status","14-Oct-1929","Summer",74.1
+150,15288,2021-10-02,2021-10-05,2021,4,951,"Z733",0,34104.36,"Stress","Other Factors Influencing Health Status","13-Sep-1971","Fall",57.4
+151,15289,2021-11-13,2021-11-21,2021,9,951,"Z733",0,111015.05,"Stress","Other Factors Influencing Health Status","08-May-1975","Fall",42.1
+152,15290,2021-12-21,2021-12-29,2021,9,951,"Z608",0,99092.02,"Other problems related to social environment","Other Factors Influencing Health Status","17-Dec-1938","Winter",29.7
+153,15291,2022-01-31,2022-02-08,2022,9,951,"Z733",0,117702.5,"Stress","Other Factors Influencing Health Status","16-Jul-1953","Winter",9.3
+154,15292,2022-03-09,2022-03-13,2022,5,951,"Z733",0,74642.19,"Stress","Other Factors Influencing Health Status","12-Aug-1952","Spring",29.3
+155,15293,2022-04-30,2022-05-09,2022,10,951,"Z608",0,118607.35,"Other problems related to social environment","Other Factors Influencing Health Status","10-Apr-1956","Spring",47.6
+156,15294,2022-06-08,2022-06-15,2022,8,951,"Z733",0,74481.21,"Stress","Other Factors Influencing Health Status","19-Aug-1949","Summer",68.3
+157,15296,2022-09-06,2022-09-10,2022,5,951,"Z604",0,39473.29,"Social exclusion and rejection","Other Factors Influencing Health Status","20-Mar-1946","Fall",62.8
+158,15297,2022-10-29,2022-11-07,2022,10,951,"Z608",0,104561.74,"Other problems related to social environment","Other Factors Influencing Health Status","15-Apr-1919","Fall",41.4
+159,15298,2022-12-08,2022-12-13,2022,6,951,"Z608",0,54494.52,"Other problems related to social environment","Other Factors Influencing Health Status","18-Mar-1967","Winter",44.8
+160,15299,2023-01-28,2023-02-04,2023,8,951,"Z733",0,65008.74,"Stress","Other Factors Influencing Health Status","03-Jan-1941","Winter",34.7
+161,15310,2021-05-23,2021-05-24,2021,2,951,"Z733",0,7901.94,"Stress","Other Factors Influencing Health Status","20-Oct-1981","Spring",72.3
+162,15894,2016-10-11,2016-10-12,2016,2,951,"Z733",0,1143.45,"Stress","Other Factors Influencing Health Status","03-Apr-1967","Fall",44.5
+163,15895,2016-10-18,2016-10-19,2016,2,951,"Z733",0,357.35,"Stress","Other Factors Influencing Health Status","31-Jul-1987","Fall",66.1
+164,15900,2017-09-12,2017-09-13,2017,2,951,"Z604",0,731.74,"Social exclusion and rejection","Other Factors Influencing Health Status","29-Jul-2015","Fall",62.1
+165,15901,2017-10-10,2017-10-11,2017,2,951,"Z604",0,357.35,"Social exclusion and rejection","Other Factors Influencing Health Status","25-Dec-1988","Fall",67.5
+166,15902,2017-11-07,2017-11-08,2017,2,951,"Z604",0,752.82,"Social exclusion and rejection","Other Factors Influencing Health Status","24-Apr-1939","Fall",40.8
+167,15947,2015-10-28,2015-10-29,2015,2,951,"Z733",0,1108.97,"Stress","Other Factors Influencing Health Status","17-Sep-1941","Fall",44.9
+168,15948,2016-01-06,2016-01-07,2016,2,951,"Z608",0,1108.97,"Other problems related to social environment","Other Factors Influencing Health Status","15-Jul-1978","Winter",18.6
+169,15949,2016-03-09,2016-03-10,2016,2,951,"Z608",0,357.35,"Other problems related to social environment","Other Factors Influencing Health Status","28-May-1958","Spring",57.1
+170,16510,2017-04-08,2017-04-09,2017,2,951,"Z733",0,10130.22,"Stress","Other Factors Influencing Health Status","06-Jan-1940","Spring",41.4
+171,16533,2020-10-04,2020-10-05,2020,2,951,"Z733",0,357.35,"Stress","Other Factors Influencing Health Status","20-Aug-1914","Fall",48.2
+172,16771,2023-02-02,2023-02-13,2023,12,951,"Z733",0,119.83,"Stress","Other Factors Influencing Health Status","02-Jul-1951","Winter",25.5
+173,16869,2021-06-18,2021-06-19,2021,2,951,"Z733",0,9452.02,"Stress","Other Factors Influencing Health Status","05-Aug-1951","Summer",66.7
+174,16992,2021-05-12,2021-05-13,2021,2,951,"Z733",0,9177.02,"Stress","Other Factors Influencing Health Status","18-Aug-2013","Spring",53.5
+175,17061,2022-07-10,2022-07-11,2022,2,951,"Z733",0,1138.76,"Stress","Other Factors Influencing Health Status","02-Jan-1960","Summer",66.1
+176,17242,2021-12-07,2021-12-11,2021,5,951,"Z733",0,18832.63,"Stress","Other Factors Influencing Health Status","29-Oct-1950","Winter",34.6
+177,17243,2022-09-22,2022-09-23,2022,2,951,"Z733",0,66.6,"Stress","Other Factors Influencing Health Status","12-Jun-2017","Fall",62.6
+178,17272,2023-01-22,2023-01-23,2023,2,951,"Z733",0,859.56,"Stress","Other Factors Influencing Health Status","23-Apr-1981","Winter",31.7
+179,18293,2018-05-15,2018-05-22,2018,8,951,"Z604",0,127.3,"Social exclusion and rejection","Other Factors Influencing Health Status","15-Apr-1988","Spring",64.5
+180,18316,2017-07-05,2017-07-06,2017,2,951,"Z608",0,946.25,"Other problems related to social environment","Other Factors Influencing Health Status","06-Dec-1958","Summer",70.9
+181,18317,2017-07-12,2017-07-13,2017,2,951,"Z608",0,715.28,"Other problems related to social environment","Other Factors Influencing Health Status","17-Sep-1945","Summer",72.8
+182,18318,2017-07-19,2017-07-20,2017,2,951,"Z608",0,810.25,"Other problems related to social environment","Other Factors Influencing Health Status","04-Sep-1949","Summer",78
+183,18319,2017-07-26,2017-07-27,2017,2,951,"Z608",0,524.37,"Other problems related to social environment","Other Factors Influencing Health Status","12-May-2002","Summer",65.3
+184,18580,2019-06-11,2019-06-17,2019,7,951,"Z604",0,113.98,"Social exclusion and rejection","Other Factors Influencing Health Status","06-Jul-1946","Summer",68.3
+185,18979,2016-03-14,2016-03-15,2016,2,951,"Z604",0,10273.3,"Social exclusion and rejection","Other Factors Influencing Health Status","11-Jan-1953","Spring",41.2
+186,19198,2018-05-21,2018-05-22,2018,2,951,"Z733",0,166.97,"Stress","Other Factors Influencing Health Status","03-Nov-1988","Spring",63.1
+187,19200,2020-12-14,2020-12-16,2020,3,951,"Z733",0,166.97,"Stress","Other Factors Influencing Health Status","17-Mar-1956","Winter",32
+188,19201,2021-06-25,2021-06-30,2021,6,951,"Z733",0,166.97,"Stress","Other Factors Influencing Health Status","01-Oct-1958","Summer",64.2
+189,19255,2021-08-31,2021-09-13,2021,14,951,"Z608",0,166.97,"Other problems related to social environment","Other Factors Influencing Health Status","25-Dec-1953","Summer",72
+190,19378,2017-07-12,2017-07-13,2017,2,951,"Z608",0,7181.54,"Other problems related to social environment","Other Factors Influencing Health Status","21-Oct-1928","Summer",72.8
+191,19507,2016-08-14,2016-08-15,2016,2,951,"Z733",0,1127.26,"Stress","Other Factors Influencing Health Status","26-Sep-1959","Summer",80.3
+192,19508,2016-08-28,2016-08-29,2016,2,951,"Z733",0,1657.4,"Stress","Other Factors Influencing Health Status","18-Oct-1942","Summer",73.8
+193,19509,2017-08-13,2017-08-14,2017,2,951,"Z733",0,1127.26,"Stress","Other Factors Influencing Health Status","01-May-1953","Summer",72.6
+194,19510,2017-08-20,2017-08-21,2017,2,951,"Z733",0,976.46,"Stress","Other Factors Influencing Health Status","19-Jun-1943","Summer",72.4
+195,19953,2022-06-16,2022-06-17,2022,2,951,"Z733",0,1216.2,"Stress","Other Factors Influencing Health Status","02-Apr-1947","Summer",66.7
+196,20464,2016-02-04,2016-02-05,2016,2,951,"Z604",0,406.83,"Social exclusion and rejection","Other Factors Influencing Health Status","18-Dec-1994","Winter",48.2
+197,20465,2016-02-11,2016-02-12,2016,2,951,"Z608",0,1878.23,"Other problems related to social environment","Other Factors Influencing Health Status","02-Aug-1922","Winter",18.9
+198,20466,2016-02-18,2016-02-19,2016,2,951,"Z608",0,1104.59,"Other problems related to social environment","Other Factors Influencing Health Status","10-Jan-1948","Winter",26.9
+199,20467,2016-02-25,2016-02-26,2016,2,951,"Z733",0,1782.02,"Stress","Other Factors Influencing Health Status","14-Aug-1946","Winter",51.6
+200,20468,2016-03-03,2016-03-04,2016,2,951,"Z733",0,1364.5,"Stress","Other Factors Influencing Health Status","01-Nov-1963","Spring",24.5
+201,20473,2016-04-14,2016-04-15,2016,2,951,"Z604",0,406.83,"Social exclusion and rejection","Other Factors Influencing Health Status","09-Sep-1964","Spring",45.2
+202,20475,2016-06-09,2016-06-10,2016,2,951,"Z608",0,406.83,"Other problems related to social environment","Other Factors Influencing Health Status","25-Oct-1914","Summer",58.9
+203,20477,2016-07-14,2016-07-15,2016,2,951,"Z608",0,1007.33,"Other problems related to social environment","Other Factors Influencing Health Status","26-Sep-1980","Summer",76.1
+204,20478,2016-08-18,2016-08-19,2016,2,951,"Z733",0,1143.33,"Stress","Other Factors Influencing Health Status","07-Jul-1965","Summer",73.8
+205,20479,2017-02-02,2017-02-03,2017,2,951,"Z608",0,1363.41,"Other problems related to social environment","Other Factors Influencing Health Status","23-Jun-1947","Winter",25.1
+206,20481,2018-07-26,2018-07-27,2018,2,951,"Z733",0,1632.7,"Stress","Other Factors Influencing Health Status","10-Jul-1971","Summer",75.3
+207,20483,2018-12-27,2018-12-28,2018,2,951,"Z733",0,1007.33,"Stress","Other Factors Influencing Health Status","28-Jun-1941","Winter",31.8
+208,20484,2019-08-22,2019-08-23,2019,2,951,"Z733",0,1143.33,"Stress","Other Factors Influencing Health Status","15-Aug-1964","Summer",74.3
+209,20485,2020-01-23,2020-01-24,2020,2,951,"Z608",0,1544.03,"Other problems related to social environment","Other Factors Influencing Health Status","13-Apr-1951","Winter",20.4
+210,20486,2020-08-20,2020-08-21,2020,2,951,"Z608",0,1798.17,"Other problems related to social environment","Other Factors Influencing Health Status","15-Feb-1971","Summer",64.6
+211,20487,2021-10-14,2021-10-15,2021,2,951,"Z608",0,1007.33,"Other problems related to social environment","Other Factors Influencing Health Status","04-Dec-1966","Fall",62.9
+212,20488,2022-06-09,2022-06-10,2022,2,951,"Z604",0,1558.61,"Social exclusion and rejection","Other Factors Influencing Health Status","24-Oct-1948","Summer",66.9
+213,20489,2022-07-07,2022-07-08,2022,2,951,"Z608",0,1007.33,"Other problems related to social environment","Other Factors Influencing Health Status","08-Nov-1967","Summer",69.3
+214,20490,2022-10-06,2022-10-07,2022,2,951,"Z733",0,2005.5,"Stress","Other Factors Influencing Health Status","30-Jul-1982","Fall",60.3
+215,20491,2022-10-13,2022-10-14,2022,2,951,"Z733",0,1365.04,"Stress","Other Factors Influencing Health Status","13-Dec-1952","Fall",59
+216,20492,2022-10-20,2022-10-21,2022,2,951,"Z608",0,1007.33,"Other problems related to social environment","Other Factors Influencing Health Status","17-Aug-1952","Fall",42.6
+217,20493,2022-11-03,2022-11-04,2022,2,951,"Z608",0,1007.33,"Other problems related to social environment","Other Factors Influencing Health Status","18-Jun-1957","Fall",47.5
+218,20494,2022-11-10,2022-11-11,2022,2,951,"Z608",0,907.18,"Other problems related to social environment","Other Factors Influencing Health Status","12-Nov-1966","Fall",49
+219,20495,2022-11-17,2022-11-18,2022,2,951,"Z733",0,1007.33,"Stress","Other Factors Influencing Health Status","15-Apr-1960","Fall",35.6
+220,20496,2022-12-08,2022-12-09,2022,2,951,"Z608",0,406.83,"Other problems related to social environment","Other Factors Influencing Health Status","09-Mar-1952","Winter",44.8
+221,20497,2022-12-15,2022-12-16,2022,2,951,"Z608",0,1841.89,"Other problems related to social environment","Other Factors Influencing Health Status","27-Nov-1943","Winter",32.1
+222,20499,2023-01-12,2023-01-13,2023,2,951,"Z608",0,1007.33,"Other problems related to social environment","Other Factors Influencing Health Status","05-Dec-1951","Winter",32
+223,20500,2023-02-02,2023-02-03,2023,2,951,"Z733",0,933.01,"Stress","Other Factors Influencing Health Status","19-Feb-1932","Winter",25.5
+224,20501,2023-02-09,2023-02-10,2023,2,951,"Z733",0,1650.41,"Stress","Other Factors Influencing Health Status","26-Jun-1957","Winter",32
+225,20613,2016-04-14,2016-04-25,2016,12,951,"Z608",0,166.97,"Other problems related to social environment","Other Factors Influencing Health Status","20-Apr-1961","Spring",45.2
+226,20829,2019-04-03,2019-04-07,2019,5,951,"Z733",0,166.97,"Stress","Other Factors Influencing Health Status","22-Jul-1918","Spring",46.9
+227,20830,2020-01-10,2020-01-15,2020,6,951,"Z733",0,166.97,"Stress","Other Factors Influencing Health Status","20-Mar-2011","Winter",36.1
+228,20856,2019-05-28,2019-05-29,2019,2,951,"Z608",0,10086.01,"Other problems related to social environment","Other Factors Influencing Health Status","02-Jul-1971","Spring",53.9
